@@ -48,9 +48,9 @@
     "@biomejs/biome": "^2.5.10",
     "@getpaseo/plugin": "0.9.0-beta.1",
     "@types/node": "^24.5.2",
-    "@types/react": "~19.2.0",
-    "react": "19.1.0",
-    "react-native": "0.81.5",
+    "@types/react": "~19.3.0",
+    "react": "19.3.0",
+    "react-native": "0.87.1",
     "typescript": "^7.0.0",
     "vitest": "^5.0.0",
     "zod": "^4.4.3"
