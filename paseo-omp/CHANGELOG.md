@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/omercnet/paseo-plugins/compare/paseo-omp-v0.4.0...paseo-omp-v0.4.1) (2026-09-21)
+
+
+### Bug Fixes
+
+* **paseo-omp:** harden OMP session recovery ([#132](https://github.com/omercnet/paseo-plugins/issues/132)) ([d89a9fe](https://github.com/omercnet/paseo-plugins/commit/d89a9feab367deea2b4629593fac9c6b867884a4))
+
 ## [0.4.0](https://github.com/omercnet/paseo-plugins/compare/paseo-omp-v0.3.0...paseo-omp-v0.4.0) (2026-09-19)
 
 
